@@ -1,3 +1,5 @@
+> Support OSX, without windows
+
 # Easy progress bars!
 
 Create CLI progress bars easily!
